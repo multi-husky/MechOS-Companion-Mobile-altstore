@@ -2,6 +2,7 @@
   "name": "MechOS Companion Mobile",
   "description": "the mobile companion app for mechos",
   "iconURL": "https://objectstorage.uk-london-1.oraclecloud.com/n/lrxyagdlvrsl/b/mech/o/app%20iconAppIcon60x60%402x.png",
+  "tintColor": "#4BFFEC",
   "featuredApps": [
     "com.mechos.companion"
   ],
