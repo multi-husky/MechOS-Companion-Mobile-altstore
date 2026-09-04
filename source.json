@@ -32,6 +32,14 @@
       },
       "versions": [
         {
+          "version": "0.2.0",
+          "buildVersion": "3",
+          "date": "2026-09-04T15:47:32Z",
+          "downloadURL": "https://objectstorage.uk-london-1.oraclecloud.com/n/lrxyagdlvrsl/b/mech/o/MechOS-Companion-unsigned.ipa",
+          "size": 7435220,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.1.3",
           "buildVersion": "4",
           "date": "2026-09-02T22:28:42Z",
